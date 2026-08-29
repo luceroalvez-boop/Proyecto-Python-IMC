@@ -1,0 +1,7 @@
+nombre = input("Ingresa tu nombre: ")
+edad = int(input("Ingresa tu edad: "))
+peso = float(input("Ingresa tu peso en kg: "))
+estatura=float(input("Ingresa tu estatura en metros: "))
+imc = peso / (estatura ** 2)
+print(f"\nHola {nombre}, tienes {edad} años.")
+print("Tu indice de Masa Corporal (IMC) es: {imc:.2f}")
