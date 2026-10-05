@@ -1,5 +1,5 @@
 # Proyecto Python -IMC (Indice de Masa Corporal)
-Este es un programa desarrollado en python que permite calcular el Indice de Masa Corporal (IMC) de un usuario de forma rapida y sencilla, validanco los datos de entrada para evitar errores.
+Este es un programa desarrollado en python que permite calcular el Indice de Masa Corporal (IMC) de un usuario de forma rapida y sencilla, validando los datos de entrada para evitar errores.
 ## CARACTERISTICAS
 _ Calculo automático del IMC utilizando peso y altura
 _ Funciones de validación de datos para asegurar que los campos no se queden vacíos o contengan valores incorrectos.
